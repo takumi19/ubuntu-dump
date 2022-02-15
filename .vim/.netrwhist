@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/dev'
+let g:netrw_dirhist_2='/dev/block'
+let g:netrw_dirhist_3='/mnt/c/Polygons/Polygons/Hull'
+let g:netrw_dirhist_4='/home/takumi/.cache/ctrlp/mru'
