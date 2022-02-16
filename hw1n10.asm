@@ -13,6 +13,7 @@ CMAIN:
   je label
   xor eax, eax
   ret
+
 label:
   sub eax, 41
   xor eax, eax
